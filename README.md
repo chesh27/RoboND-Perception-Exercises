@@ -8,6 +8,7 @@ These exercises are part of the perception lessons in the [Udacity Robotics Nano
 $ sudo pip install cython
 ```
 
+
 ### Build and Install pcl-python
 ```
 $ cd ~/RoboND-Perception-Exercises/python-pcl
